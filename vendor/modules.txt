@@ -1,0 +1,44 @@
+# github.com/asergeyev/nradix v0.0.0-20170505151046-3872ab85bb56
+github.com/asergeyev/nradix
+# github.com/baidu/go-lib v0.0.0-20190731032112-26c6ce93bc54
+github.com/baidu/go-lib/log
+github.com/baidu/go-lib/log/log4go
+github.com/baidu/go-lib/web-monitor/metrics
+github.com/baidu/go-lib/gotrack
+github.com/baidu/go-lib/web-monitor/web_monitor
+github.com/baidu/go-lib/web-monitor/delay_counter
+github.com/baidu/go-lib/web-monitor/kv_encode
+github.com/baidu/go-lib/web-monitor/module_state2
+github.com/baidu/go-lib/web-monitor/web_params
+github.com/baidu/go-lib/time/timefmt
+# github.com/gomodule/redigo v2.0.0+incompatible
+github.com/gomodule/redigo/redis
+github.com/gomodule/redigo/internal
+# github.com/jehiah/go-strftime v0.0.0-20171201141054-1d33003b3869
+github.com/jehiah/go-strftime
+# github.com/pquerna/ffjson v0.0.0-20181028064349-e517b90714f7
+github.com/pquerna/ffjson/ffjson
+github.com/pquerna/ffjson/fflib/v1
+github.com/pquerna/ffjson/fflib/v1/internal
+# github.com/spaolacci/murmur3 v1.1.0
+github.com/spaolacci/murmur3
+# github.com/zmap/go-iptree v0.0.0-20170831022036-1948b1097e25
+github.com/zmap/go-iptree/iptree
+# golang.org/x/crypto v0.0.0-20190530122614-20be4c3c3ed5
+golang.org/x/crypto/ocsp
+golang.org/x/crypto/chacha20poly1305
+golang.org/x/crypto/internal/chacha20
+golang.org/x/crypto/internal/subtle
+golang.org/x/crypto/poly1305
+# golang.org/x/net v0.0.0-20190620200207-3b0461eec859
+golang.org/x/net/websocket
+# golang.org/x/sys v0.0.0-20190602015325-4c4f7f33c9ed
+golang.org/x/sys/unix
+golang.org/x/sys/cpu
+# gopkg.in/gcfg.v1 v1.2.3
+gopkg.in/gcfg.v1
+gopkg.in/gcfg.v1/scanner
+gopkg.in/gcfg.v1/token
+gopkg.in/gcfg.v1/types
+# gopkg.in/warnings.v0 v0.1.2
+gopkg.in/warnings.v0
